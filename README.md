@@ -60,13 +60,7 @@ I’m a **blogger and creative writer**, exploring emotions, psychology, and ref
 
 ## 📊 GitHub Stats
 
-![Shree Vishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreevishalik&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=shreevishalik&theme=tokyonight)
-
-
 
 Thanks for visiting 🌸  
 Feel free to explore my repositories and follow my journey!
