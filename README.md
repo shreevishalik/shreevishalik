@@ -58,10 +58,5 @@ I’m a **blogger and creative writer**, exploring emotions, psychology, and ref
 - Learning-driven experiments  
 - A blend of **code + creativity**
 
-## 📊 GitHub Stats
-
-![GitHub Streak](![GitHub Streak](https://streak-stats.demolab.com/?user=shreevishalik&cache_seconds=86400)
-)
-
 Thanks for visiting 🌸  
 Feel free to explore my repositories and follow my journey!
