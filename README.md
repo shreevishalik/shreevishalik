@@ -60,7 +60,8 @@ I’m a **blogger and creative writer**, exploring emotions, psychology, and ref
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shreevishalik&theme=tokyonight)
+![GitHub Streak](![GitHub Streak](https://streak-stats.demolab.com/?user=shreevishalik&cache_seconds=86400)
+)
 
 Thanks for visiting 🌸  
 Feel free to explore my repositories and follow my journey!
